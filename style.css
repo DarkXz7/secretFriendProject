@@ -160,3 +160,10 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+
+.containerAmigosArray{
+    position: relative;
+    margin-left: 50%;
+    margin-bottom: 5%;
+}
