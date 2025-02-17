@@ -1,0 +1,3 @@
+- permite ingresar nombres atraves de un campo de texto y un boton de agregar
+- realiza un sorteo aleatorio para determinar el amigo secreto y mostrarlo en pantalla
+- si un usuario intenta agreagr un nombre vacio, debe dar error
